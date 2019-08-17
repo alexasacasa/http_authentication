@@ -1,9 +1,5 @@
 # Http authentication
 
 ## dependencies
-  npm install : 
-      express
-      http-auth
-
-## 
-
+  npm install express
+  npm install http-auth
